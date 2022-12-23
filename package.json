@@ -1,0 +1,14 @@
+{
+  "name": "node.js-dpdev",
+  "version": "1.0.0",
+  "description": "Curso node JS",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "author": "Helder Lopes - frontEnd",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
